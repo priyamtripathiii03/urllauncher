@@ -16,8 +16,8 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
         leading: const Icon(
-          Icons.account_circle_outlined,
-          color: Colors.lightBlueAccent,
+          Icons.arrow_back_ios_new,
+          color: Colors.blue,
           size: 32,
         ),
         centerTitle: true,
