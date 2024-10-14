@@ -89,7 +89,7 @@ class HomePage extends StatelessWidget {
                       width: width * 0.04,
                     ),
                     const Text(
-                      '+91 81538 26814',
+                      '+91 9106909125',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 19,
@@ -131,7 +131,7 @@ class HomePage extends StatelessWidget {
                       width: width * 0.05,
                     ),
                     const Text(
-                      'rk4852115@gmail.com',
+                      'priyamtripathiii03@gmail.com',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 19,
